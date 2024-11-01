@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E849E67-5C7E-448F-9E68-067ABFCBA797}|WebApp.csproj|d:\\workspace\\school\\tmdt\\webapporganic\\webapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E849E67-5C7E-448F-9E68-067ABFCBA797}|WebApp.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E849E67-5C7E-448F-9E68-067ABFCBA797}|WebApp.csproj|d:\\workspace\\school\\tmdt\\webapporganic\\webapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E849E67-5C7E-448F-9E68-067ABFCBA797}|WebApp.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E849E67-5C7E-448F-9E68-067ABFCBA797}|WebApp.csproj|d:\\workspace\\school\\tmdt\\webapporganic\\webapp\\models\\organiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E849E67-5C7E-448F-9E68-067ABFCBA797}|WebApp.csproj|solutionrelative:models\\organiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:28:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:59:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganicContext.cs",
+              "DocumentMoniker": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\Models\\OrganicContext.cs",
+              "RelativeDocumentMoniker": "Models\\OrganicContext.cs",
+              "ToolTip": "D:\\Workspace\\School\\TMDT\\WebAppOrganic\\WebApp\\Models\\OrganicContext.cs",
+              "RelativeToolTip": "Models\\OrganicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:53:43.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
